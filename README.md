@@ -1,1 +1,4 @@
-# 1APL2023
+### APL2023
+# Kathen Gabriely
+## Pensamento Computacional
+- Colegio Paulo Leminski
