@@ -1,4 +1,5 @@
 ### APL2023
 # Kathen Gabriely
 ## Pensamento Computacional
-- Colegio Paulo Leminski
+- Colegio Paulo Leminski-
+- **professora Drielle**
